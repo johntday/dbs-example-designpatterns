@@ -13,6 +13,9 @@ Iterators are not limited to traversal alone. It is entirely left to the purpose
 
 A factory method available in the collection will return the instance of the iterator.
 
+<img src="https://github.com/johntday/dbs-example-designpatterns/raw/master/src/com/dbs/training/designpatterns/iterator/Iterator-DesignPatterns-classdiagram-summary.png" 
+alt="Java Iteration Design Pattern - summary">
+
  
 <h3>Polymorphic Iterator</h3>
 
