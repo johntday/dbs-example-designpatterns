@@ -15,7 +15,11 @@ A factory method available in the collection will return the instance of the ite
 
 <img src="https://github.com/johntday/dbs-example-designpatterns/raw/master/src/com/dbs/training/designpatterns/iterator/Iterator-DesignPatterns-classdiagram-summary.png" 
 alt="Java Iteration Design Pattern - summary">
+<p>Java Iteration Design Pattern - summary</p>
 
+<img src="https://github.com/johntday/dbs-example-designpatterns/raw/master/src/com/dbs/training/designpatterns/iterator/Iterator-DesignPatterns-classdiagram-detail.png" 
+alt="Java Iteration Design Pattern - detail">
+<p>Java Iteration Design Pattern - detail</p>
  
 <h3>Polymorphic Iterator</h3>
 
